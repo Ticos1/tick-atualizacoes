@@ -1,4 +1,2 @@
-- Esta tela: toda atualização mostra aqui o que mudou.
-- Quando o servidor do jogo cai, as contas tentam voltar sozinhas.
-- Melhor hunt: agora escolhe sempre a hunt com mais XP por hora.
-- Auto Compra ajustado para a versão mais nova da extensão /hunt.
+- As atualizações do Tick agora usam uma assinatura nova.
+- Nada muda nas suas contas nem nas automações.
