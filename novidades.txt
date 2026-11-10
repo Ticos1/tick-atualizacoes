@@ -1,2 +1,2 @@
-- O Tick agora procura atualização a cada 15 minutos, então as novidades chegam no mesmo dia
-- Se você clicar em "Depois", o aviso para reiniciar volta a aparecer a cada hora até você reiniciar
+- Troféu do meta do PvP: o clique esquerdo agora abre o painel direto
+- O botão direito continua servindo para trocar a conta que analisa o ranking
