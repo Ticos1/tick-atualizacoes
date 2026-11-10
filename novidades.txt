@@ -1,2 +1,2 @@
-- As atualizações do Tick agora usam uma assinatura nova.
-- Nada muda nas suas contas nem nas automações.
+- Melhor hunt: com "só Outland" desligado, a conta não vai mais para hunts da Outland
+- Melhor hunt: volta a olhar todas as regiões quando "só Outland" é desligado
