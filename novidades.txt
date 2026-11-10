@@ -1,2 +1,4 @@
-- Melhor hunt: com "só Outland" desligado, a conta não vai mais para hunts da Outland
-- Melhor hunt: volta a olhar todas as regiões quando "só Outland" é desligado
+- Novo botão de troféu na barra lateral: o meta do PvP, com o que o topo do ranking usa
+- Mostra as espécies mais usadas, as tipagens dominantes, o que mais vence a sua equipe e quais Pokémon seus vão melhor contra o meta
+- Na primeira vez, escolha a conta que analisa; ela relê o ranking sozinha a cada 6 horas
+- Clique com o botão direito no troféu para trocar a conta
