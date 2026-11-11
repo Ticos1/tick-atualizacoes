@@ -1,2 +1,4 @@
-- Corrigido: o tempo de conexão das contas aparecia com centenas de milhares de horas
-- Previsão de shiny: o tempo para capturar aparece primeiro, com "≈" no lugar do "~", que parecia um sinal de menos
+- Novo botão de bússola na barra lateral: a Melhor hunt em camadas, com seletor de conta
+- Compara a escolha de hoje com um cálculo que considera os selvagens que cada golpe em área acerta e a velocidade da sua bicicleta
+- Onde a conta já caçou, vale o que ela fez de verdade; a troca de hunt continua do jeito de sempre, isto é só para comparar
+- O Tick começa a medir o tamanho das levas de selvagens em cada hunt, para o cálculo ficar mais preciso com o tempo
