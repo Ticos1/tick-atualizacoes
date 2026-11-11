@@ -1,5 +1,2 @@
-- Previsão de shiny na barra de cada conta: quanto tempo para ver e para capturar um shiny, sempre calculado com a Ultra Ball
-- Passe o mouse na previsão para ver a chance por bola, o Lure, a garantia e as hunts onde a bola fecha mais
-- O vigia agora percebe quando o Tick trava, reabre com espera crescente sem desistir e é reaberto pelo Tick se parar
-- Quando o vigia reabre o Tick, aparece um aviso no Windows contando o que aconteceu
-- O Tick passou a anotar mais detalhes no registro quando fecha sozinho, para descobrir a causa
+- Corrigido: o tempo de conexão das contas aparecia com centenas de milhares de horas
+- Previsão de shiny: o tempo para capturar aparece primeiro, com "≈" no lugar do "~", que parecia um sinal de menos
