@@ -1,2 +1,5 @@
-- Troféu do meta do PvP: o clique esquerdo agora abre o painel direto
-- O botão direito continua servindo para trocar a conta que analisa o ranking
+- Previsão de shiny na barra de cada conta: quanto tempo para ver e para capturar um shiny, sempre calculado com a Ultra Ball
+- Passe o mouse na previsão para ver a chance por bola, o Lure, a garantia e as hunts onde a bola fecha mais
+- O vigia agora percebe quando o Tick trava, reabre com espera crescente sem desistir e é reaberto pelo Tick se parar
+- Quando o vigia reabre o Tick, aparece um aviso no Windows contando o que aconteceu
+- O Tick passou a anotar mais detalhes no registro quando fecha sozinho, para descobrir a causa
