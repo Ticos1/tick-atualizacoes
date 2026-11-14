@@ -1,4 +1,7 @@
-- Novo botão de bússola na barra lateral: a Melhor hunt em camadas, com seletor de conta
-- Compara a escolha de hoje com um cálculo que considera os selvagens que cada golpe em área acerta e a velocidade da sua bicicleta
-- Onde a conta já caçou, vale o que ela fez de verdade; a troca de hunt continua do jeito de sempre, isto é só para comparar
-- O Tick começa a medir o tamanho das levas de selvagens em cada hunt, para o cálculo ficar mais preciso com o tempo
+- Auto Compra com visual novo: abas, ícones do jogo, barra de estoque e chaves de ligar e desligar
+- Golden Potion na Auto Compra, junto das outras poções (começa desligada)
+- Modo econômico das poções: compra só a que mais cura por ouro, sem contar a cura que passaria do HP
+- O botão de caixa da barra lateral abre o Triar Depot: mostra quem vai para a Coleção e quem seria vendido, e só age no Confirmar
+- No Triar Depot dá para desmarcar quem você quer manter no Depot antes de confirmar
+- A barra lateral recolhe sozinha em janela baixa, com os botões no menu "…", e também pode ser recolhida pela setinha
+- O Tick foi reorganizado por dentro para ficar mais fácil de manter, sem mudar o uso
