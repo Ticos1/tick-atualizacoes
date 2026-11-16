@@ -1,5 +1,4 @@
-- Menos memória: quando a página de uma conta passa do limite, o Tick recarrega só ela, uma por vez, e o jogo volta para a mesma hunt
-- A recarga nunca acontece na conta que você está usando nem durante a triagem do Depot
-- Nas Configurações, em Memória, dá para desligar isso ou escolher o limite (600, 750, 900 ou 1200 MB por conta)
-- A cada 30 minutos, cada conta solta da memória as imagens que já não usa
-- O registro do Tick passa a anotar quanto de memória cada conta usa, para acompanhar o efeito
+- Melhor hunt corrigida: a conta não fica mais presa na mesma hunt quando a extensão /hunt mostra o aviso "Onde está seu Pokémon ativo?"
+- Se a /hunt não achar o seu Pokémon em campo, o Tick avisa: clique em "Apontar" no aviso dela e depois no nome do Pokémon
+- O resultado do "Verificar agora" aparece logo abaixo do botão, na aba Hunt, junto com o motivo quando o jogo recusa a troca
+- Novo botão do Rotom Sniper na barra lateral: uma janela só, com seletor de conta, que guarda o cockpit de cada uma ao trocar
