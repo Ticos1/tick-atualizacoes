@@ -1,4 +1,3 @@
-- Melhor hunt corrigida: a conta não fica mais presa na mesma hunt quando a extensão /hunt mostra o aviso "Onde está seu Pokémon ativo?"
-- Se a /hunt não achar o seu Pokémon em campo, o Tick avisa: clique em "Apontar" no aviso dela e depois no nome do Pokémon
-- O resultado do "Verificar agora" aparece logo abaixo do botão, na aba Hunt, junto com o motivo quando o jogo recusa a troca
-- Novo botão do Rotom Sniper na barra lateral: uma janela só, com seletor de conta, que guarda o cockpit de cada uma ao trocar
+- Melhor hunt: agora vai sempre para a 1ª da /hunt em XP/h, assim que ela for outra (opção "Sempre a 1ª da /hunt", ligada)
+- Desligando essa opção, voltam a margem para não pular entre hunts parecidas e a correção pelo ritmo real
+- Na Outland, a escolha continua sendo pela hunt de mais abates por hora
