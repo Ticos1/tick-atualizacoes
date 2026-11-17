@@ -1,3 +1,6 @@
-- Melhor hunt: agora vai sempre para a 1ª da /hunt em XP/h, assim que ela for outra (opção "Sempre a 1ª da /hunt", ligada)
-- Desligando essa opção, voltam a margem para não pular entre hunts parecidas e a correção pelo ritmo real
-- Na Outland, a escolha continua sendo pela hunt de mais abates por hora
+- Novo botão na barra lateral: Caminhos (Outland × Shiny × Upar), com seletor de conta
+- Compara 4 caminhos nos próximos 7 e 30 dias: ficar no degrau, Outland sempre no maior degrau, upar até o próximo degrau e voltar, ou só upar
+- Mostra XP, shinies e gemas de cada caminho, com faixa, usando o ritmo real da sua conta e o preço dos drops no Market
+- Avisa quando dá para subir de degrau e quanto falta para o próximo, com um campo para as horas por dia que a conta joga
+- Dá para comparar todas as contas lado a lado
+- Chave para seguir o caminho escolhido (começa desligada): ela ajusta o "Só Outland" da Melhor hunt sozinha
